@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLedger", "BankLedger\BankLedger.csproj", "{B2871E5D-36C8-4EDE-A87B-CD96C12AE936}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B43876D1-CA31-4A66-8254-A94F384E2C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{7E22A337-CC5D-48E9-9B9D-E2B175B80C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2871E5D-36C8-4EDE-A87B-CD96C12AE936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2871E5D-36C8-4EDE-A87B-CD96C12AE936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2871E5D-36C8-4EDE-A87B-CD96C12AE936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2871E5D-36C8-4EDE-A87B-CD96C12AE936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E22A337-CC5D-48E9-9B9D-E2B175B80C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E22A337-CC5D-48E9-9B9D-E2B175B80C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E22A337-CC5D-48E9-9B9D-E2B175B80C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E22A337-CC5D-48E9-9B9D-E2B175B80C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA42A0DD-5250-4418-9053-315123531D2A}
+	EndGlobalSection
+EndGlobal
